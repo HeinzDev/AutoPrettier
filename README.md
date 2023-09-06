@@ -2,11 +2,11 @@
 
 AutoPrettier is a project automation script developed to simplify the process of setting up projects with ESLint and Prettier. If you've encountered issues while trying to configure Prettier alongside ESLint, this script can streamline the setup process for you.
 
-## Script Customization
+## Script Customization ✨
 
-The recommended way to use AutoPrettier is by keeping the AutoPrettier folder parallel to your projects, and utilizing the `autoprettier_custom.sh` script to create your configuration files just once (if they don't already exist) and add them to the `config/` directory of this project. You can also choose to use the `autoprettier.sh` script with my default configuration embedded.
+The recommended way to use AutoPrettier is by keeping the AutoPrettier folder parallel to your projects, and utilizing the `autoprettier_custom.sh` script to create your configuration files just once (if they don't already exist) and adding them to the `config/` directory of this project. You can also choose to use the `autoprettier.sh` script with my default configuration embedded.
 
-### Files in the `/config` Directory
+## Files in the /config Directory ⚙️
 
 When using the custom script, add the following configuration files to the `/config` directory of your project:
 
@@ -26,7 +26,7 @@ When using the custom script, add the following configuration files to the `/con
 
   (The IDE settings configuration file is included here because VSCode requires specific formatting configurations for Prettier to work seamlessly with ESLint. You'll find an example file in the `config/` folder.)
 
-## Running the script
+## Running the script ⚡
 
 1. Clone the AutoPrettier repository and place it parallel to your projects directory.
 
