@@ -7,6 +7,8 @@ else
   zenity=false
 fi
 
+cd ..
+
 # Asking to create a project
 if [ "$zenity" = true ]; then
   zenity_result=$(zenity --question --text="Create a project with vite?")
