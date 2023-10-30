@@ -60,4 +60,14 @@ or
  $ ./autoprettier.sh
 ```
 
-4. The script will prompt you to either start a new project with Vite or run the script in an existing project. That's it!
+The script will prompt you to either start a new project with Vite or run the script in an existing project. That's it!
+
+## 
+<div id="header" align="center">
+  <a href="https://github.com/HeinzDev/">
+    <img src="https://i.imgur.com/RtsYtRt.png" width="100"/>
+  </a>
+  <a href="https://github.com/HeinzDev/">
+    <h3>HeinzDev</h3>  
+  </a>
+</div>
